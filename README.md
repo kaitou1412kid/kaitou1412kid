@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaitou1412kid&label=Profile%20views&color=0e75b6&style=flat" alt="kaitou1412kid" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaitou1412kid" alt="kaitou1412kid" /></a> </p>
+
 
 - 🔭 I’m currently working on **myBookList**
 
