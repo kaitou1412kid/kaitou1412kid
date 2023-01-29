@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm kritagya man shakya</h1>
 <h3 align="center">A passionate web developer from Nepal.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaitou1412kid&label=Profile%20views&color=0e75b6&style=flat" alt="kaitou1412kid" /> </p>
 
