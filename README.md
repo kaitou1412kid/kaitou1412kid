@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kritagya Man Shakya</h1>
 <h3 align="center">A passionate Software developer Enthusiast from Nepal</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaitou1412kid" alt="kaitou1412kid" /></a> </p>
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 - 🔭 I’m currently working on [Event Management System](https://github.com/kaitou1412kid/event_management)
 
