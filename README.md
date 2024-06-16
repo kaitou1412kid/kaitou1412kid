@@ -2,13 +2,13 @@
 <h3 align="center">A passionate Software developer Enthusiast from Nepal</h3>
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-- 🔭 I’m currently working on [Event Management System](https://github.com/kaitou1412kid/event_management)
+- 🔭 I’m currently working on [Expense Tracker](https://github.com/kaitou1412kid/)
 
-- 🌱 I’m currently learning **Django and Machine learning**
+- 🌱 I’m currently learning **Java and Spring Boot**
 
-- 👯 I’m looking to collaborate on **Python and Django**
+- 👯 I’m looking to collaborate on **Node, Python, Django, Java , Spring**
 
-- 💬 Ask me about **Javascript, Nodejs , Python and Django**
+- 💬 Ask me about **Javascript, Nodejs , Python , Django , Java , Springboot**
 
 - 📫 How to reach me **kritagyashakya00@gmail.com**
 
